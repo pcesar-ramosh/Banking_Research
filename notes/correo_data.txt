@@ -1,0 +1,4 @@
+Comentarte que las cifras, según lo conversado, incluyen bancos, bancos pyme y banco público según la disponibilidad de los datos 
+Considero que incluí las variables principales, además añadí algunas fórmulas en el excel para poder hallar variables restantes con la información adjunta. Incluiré la bolivianización, depósitos en cuentas de ahorro y plazo y créditos por actividad económica a la brevedad posible 
+
+Saludos...
